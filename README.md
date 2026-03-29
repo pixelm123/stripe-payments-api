@@ -2,6 +2,8 @@
 
 API demonstrating third-party payment integration, webhook handling, and subscription lifecycle management using **.NET 10** and the **Stripe API**.
 
+**Live API docs:** https://stripe-payments-api.onrender.com/scalar/v1
+
 ---
 
 ## Tech Stack
