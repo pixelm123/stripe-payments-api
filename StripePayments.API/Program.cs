@@ -49,7 +49,7 @@ app.MapOpenApi();
 app.MapScalarApiReference(options =>
 {
     options.Title = "Stripe Payments API";
-    options.Servers = [new ScalarServer("https://your-api.onrender.com")];
+    options.Servers = [new ScalarServer("https://stripe-payments-api.onrender.com")];
 });
 
 app.MapControllers();
